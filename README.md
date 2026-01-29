@@ -1,17 +1,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Mahmoud%20Abdou&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=09637E&center=true&vCenter=true&width=650&lines=Web%20Development;MERN%20Stack%20Developer;React%20JS%20Developer;Backend%20Node.js%20Developer" alt="Typing introduction" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=1000&color=09637E&center=true&vCenter=true&width=650&lines=Web%20Developer;MERN%20Stack%20Developer;React%20JS%20Developer;Backend%20Node%20JS%20Developer" alt="Typing introduction" />
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://komarev.com/ghpvc/?username=MahmoudAbdou0">
     <img src="https://komarev.com/ghpvc/?username=MahmoudAbdou0&label=Profile%20views&color=00FFFF&style=flat-square" alt="MahmoudAbdou0's profile views" />
   </a>
-</p>
+</div>
 
 ## 📌 About Me
-- 🎓 Software Engineer | Frontend React Developer
+- 🎓 Software Engineer | MERN Stack Developer
 - 📍 October Gardens, Giza, Egypt
 - 🏫 Faculty of Engineering, Tanta University (2025)
 - 🧠 Department of Computer & Automatic Control Engineering
